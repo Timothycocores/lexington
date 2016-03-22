@@ -17,7 +17,7 @@
   font-size: 80px;
   font-weight: 100;
   color: #fff;
-  padding-top: 200px;
+  padding-top: 250px;
 }
 
 #links{
@@ -54,7 +54,6 @@ Navigation*/
 ul {
 	text-align: center;
     list-style-type: none;
-    color: white;
     padding: 4px;
     font-family: 'Merriweather', serif;
     font-size: 16px;
@@ -68,7 +67,7 @@ li {
 }
 
 a {
-    color: white;
+   color: white;
     text-decoration: none;
 }
 #about {
@@ -188,11 +187,21 @@ h1{
 /*
 
 */
+.viewAll{
+	padding-top: 770px;
+	text-align: center;
+	color: black;
+}
+
+.copyRight{
+	padding-top: 25px;
+}
 footer{
-	margin-top: 800px;
+	
 	background-color: black;
 	height: 100px;
 	width: 100%;
 	color: white;
 	text-align: center;
+
 }
